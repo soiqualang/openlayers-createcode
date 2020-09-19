@@ -2,4 +2,4 @@
 openlayers-createcode
 
 
-https://dothanhlong.org/openlayers-createcode/
+http://apps.dothanhlong.org/openlayers-createcode/
